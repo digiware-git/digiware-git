@@ -1,4 +1,4 @@
-## Hi there 👋
+## this is my first git repository 
 
 <!--
 **digiware-git/digiware-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
